@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/CSC272.iml" filepath="$PROJECT_DIR$/.idea/CSC272.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Difference-Objects-Classes/Difference-Objects-Classes.iml" filepath="$PROJECT_DIR$/Difference-Objects-Classes/Difference-Objects-Classes.iml" />
     </modules>
   </component>
 </project>
