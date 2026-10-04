@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/Microwave/Microwave.iml" filepath="$PROJECT_DIR$/Microwave/Microwave.iml" />
       <module fileurl="file://$PROJECT_DIR$/Person/Person.iml" filepath="$PROJECT_DIR$/Person/Person.iml" />
       <module fileurl="file://$PROJECT_DIR$/PersonalizedMailing/PersonalizedMailing.iml" filepath="$PROJECT_DIR$/PersonalizedMailing/PersonalizedMailing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
     </modules>
   </component>
 </project>
