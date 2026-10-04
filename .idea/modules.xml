@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BalanceCalculator/BalanceCalculator.iml" filepath="$PROJECT_DIR$/BalanceCalculator/BalanceCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/CSC272.iml" filepath="$PROJECT_DIR$/.idea/CSC272.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CircleDrawingGUI/CircleDrawingGUI.iml" filepath="$PROJECT_DIR$/CircleDrawingGUI/CircleDrawingGUI.iml" />
       <module fileurl="file://$PROJECT_DIR$/Difference-Objects-Classes/Difference-Objects-Classes.iml" filepath="$PROJECT_DIR$/Difference-Objects-Classes/Difference-Objects-Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Microwave/Microwave.iml" filepath="$PROJECT_DIR$/Microwave/Microwave.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Person/Person.iml" filepath="$PROJECT_DIR$/Person/Person.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PersonalizedMailing/PersonalizedMailing.iml" filepath="$PROJECT_DIR$/PersonalizedMailing/PersonalizedMailing.iml" />
     </modules>
   </component>
 </project>
